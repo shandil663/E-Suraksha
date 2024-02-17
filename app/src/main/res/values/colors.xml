@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#201A31</color>
+    <color name="titleback">#3F3559</color>
+    <color name="cardback">#352A53</color>
+    <color name="red">#EF2323</color>
+</resources>
