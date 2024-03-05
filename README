@@ -1,0 +1,7 @@
+e-Suraksha - Cybersecurity Prototype
+e-Suraksha is a prototype application designed to assist in cybersecurity investigations.  Please note: This application is a prototype and should be used with caution in real-world scenarios.
+
+Key Features
+IP Tracker: Trace the approximate geographical location of IP addresses.
+Bank Document Analysis: Analyze bank documents to potentially detect suspicious patterns or anomalies.
+IDPR/Mobile Record Analysis: Examine IDPRs (Internet Protocol Detail Record) or mobile records for potential clues in investigations.
